@@ -19,7 +19,7 @@
 
 - **Open the test class (e.g., "RestassuredApi1.java")**
 - **Right-click on the file**
-- **Select **Run As → TestNG Test**
+- **Select Run As → TestNG Test**
 
 ## Assumptions and Limitations
 
