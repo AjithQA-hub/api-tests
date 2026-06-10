@@ -21,7 +21,7 @@
 - **Right-click on the file**
 - **Select Run As → TestNG Test**
 
-## Assumptions and Limitations
+## 5. Assumptions and Limitations
 
 - The API used (https://jsonplaceholder.typicode.com) is always available and stable.
 - No authentication or token is required to access the endpoints.
