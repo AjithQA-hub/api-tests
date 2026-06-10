@@ -11,9 +11,9 @@
 
 ## 3. Add Dependencies in pom.xml and Install Plugin
 
-- **Install TestNG plugin in Eclipse Marketplace**
-- **Add the Rest Assured dependency version 4.3.3**
-- **Add the TestNG dependency version 6.14.3**
+- Install **TestNG plugin** in Eclipse Marketplace
+- Add the Rest Assured dependency version **4.3.3**
+- Add the TestNG dependency version **6.14.3**
 
 ## 4. How to run the tests (setup steps)
 
