@@ -1,6 +1,6 @@
 # API Automation Project - Rest Assured + TestNG
 
-## 1. Application Chosen : [https://finance-app-demo.com](https://demo.firefly-iii.org/login)
+## 1. Application Chosen : [https://demo.firefly-iii.org/login](https://demo.firefly-iii.org/login)
 
 ## 2. Framework and Language Used
 
