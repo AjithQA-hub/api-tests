@@ -30,7 +30,7 @@ public class RestassuredApi1 {
 	@Test(priority = 2)
 	public void verifyCreatePost() {
 
-		String requestBody = """
+		String requestData = """
 				{
 				    "title": "QA Testing",
 				    "body": "Rest Assured with TestNG",
